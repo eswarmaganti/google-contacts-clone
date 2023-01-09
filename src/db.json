@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": 0.4790756052821954,
+      "isFavourite": false,
+      "firstName": "Eswar Krishna",
+      "lastName": "Maganti",
+      "jobTitle": "Deputy Manager",
+      "company": "Vodafone Intelligent Solutions",
+      "email": "maganti.ek@gmail.com",
+      "phoneNumber": "7032278313"
+    },
+    {
+      "id": 0.3504868611586158,
+      "isFavourite": true,
+      "firstName": "Gurunadham",
+      "lastName": "Maganti",
+      "jobTitle": "Farmer",
+      "company": "Agriculture",
+      "email": "maganti.gurunadham@gmail.com",
+      "phoneNumber": "9908454127"
+    }
+  ]
+}
